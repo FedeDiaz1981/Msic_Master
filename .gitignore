@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.validation_project/
+audio/
+midi/
+renders/
+*.wav
+*.mp3
+*.flac
+*.mid
+*.csv
+*.npz
+project.json
